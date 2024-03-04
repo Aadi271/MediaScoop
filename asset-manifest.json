@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MediaScoop/static/css/main.9c1adbdb.css",
+    "main.js": "/MediaScoop/static/js/main.732f40db.js",
+    "index.html": "/MediaScoop/index.html",
+    "main.9c1adbdb.css.map": "/MediaScoop/static/css/main.9c1adbdb.css.map",
+    "main.732f40db.js.map": "/MediaScoop/static/js/main.732f40db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1adbdb.css",
+    "static/js/main.732f40db.js"
+  ]
+}
